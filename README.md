@@ -1,4 +1,6 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDZtC5Mw0m_U-N_N7EFUVbgGSHihHpNaPiA&usqp=CAU" alt="Abhinav Katiyar" width="1000" height="300">
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDZtC5Mw0m_U-N_N7EFUVbgGSHihHpNaPiA&usqp=CAU" alt="Abhinav Katiyar"  height="300">
+</p>
 
 <h1 align="center">Hi 👋, I'm Abhinav Katiyar</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
