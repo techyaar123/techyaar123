@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhinavkatyar" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavkatyar?logo=twitter&style=for-the-badge" alt="abhinavkatyar" /></a> </p>
 
-- 🔭 I’m currently working on [GoDoctorAppointment](https://github.com/techyaar123/GoDoctorAppointment)
+- 🔭 I’m currently working on [TargetEverydayCommit](https://github.com/techyaar123/TargetEverydayCommit)
 
 - 🌱 I’m currently learning **Go**
 
